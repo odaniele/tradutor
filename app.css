@@ -1,0 +1,33 @@
+body{
+    margin: auto;
+    padding: 0;
+    display: flex;
+    background-image: url(https://p2.trrsf.com/image/fget/cf/1200/1200/middle/images.terra.com/2023/06/01/mantua-1h7qyahphh0te.jpg);
+    opacity: 0.9;
+}
+
+
+
+.container{
+    display: flex;
+    align-items: center;
+}
+
+div.idioma-entrada{
+    background-color: #e6bf6d;
+    border-color: #dd9c22 3px solid;
+    border-radius: 15px;
+    margin: 140px 50px 40px 70px;
+    width: 540px;
+    height: 280px;
+
+}
+
+div.idioma-saida{
+    background-color: #e6bf6d;
+    border-color: #dd9c22 3px solid;
+    border-radius: 15px;
+    margin: 140px 50px 40px 70px;
+    width: 540px;
+    height: 280px; 
+}
